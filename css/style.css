@@ -1,0 +1,31 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@media (max-width: 426px) {
+    .top-hero-img{
+        flex-direction: column;
+    }
+    /* html, body{
+        max-width: 100%;
+           overflow-x: hidden;
+       } */
+}
+    
+@media (max-width: 769px)       
+{
+    .top-hero-img{
+        flex-direction: column;
+        width: 100%;
+       
+    }
+    html, body{
+        max-width: 100%;
+           overflow-x: hidden;
+       }
+}
+   
+
+
