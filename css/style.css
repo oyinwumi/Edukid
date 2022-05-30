@@ -8,6 +8,9 @@
     .top-hero-img{
         flex-direction: column;
     }
+    .contact-page{
+        flex-direction: column;
+    }
     /* html, body{
         max-width: 100%;
            overflow-x: hidden;
